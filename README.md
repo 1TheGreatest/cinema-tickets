@@ -21,7 +21,6 @@ npm test
 ## 📂 Project Structure
 
 ```
-.
 ├── src/
 │   ├── pairtest/
 │   │   ├── lib/            # Provided immutable TicketTypeRequest & exceptions
